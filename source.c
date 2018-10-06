@@ -1,0 +1,1 @@
+/* This is valid C source file */
